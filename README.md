@@ -16,3 +16,7 @@ git config --global user.email "johndoe@email.com"
 ** If you want to set email differently to each project, erase '--global'
 git config user.name "John Doe"
 git config user.email "johndoe@email.com"
+
+[2023-08-29]
+1. Created Blazor Server with VSCode.
+2. Commit and Push using VSCode.
